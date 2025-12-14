@@ -4,7 +4,6 @@ title: "Conditional Vocal Timbral Technique Conversion via Embedding-Guided Attr
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
-
 <div style="text-align: center; margin: 20px 0;">
     <a href="LINK_TO_YOUR_PDF" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white" alt="Paper">
@@ -14,11 +13,10 @@ title: "Conditional Vocal Timbral Technique Conversion via Embedding-Guided Attr
         <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github&logoColor=white" alt="Code">
     </a>
 
-    <a href="LINK_TO_YOUR_DATASET" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Dataset-EMO-yellow?logo=huggingface&logoColor=white" alt="Dataset">
+    <a href="PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Dataset-EMO-4285F4?logo=google-drive&logoColor=white" alt="Dataset">
     </a>
 </div>
-
 <h1>Abstract</h1>
 
 Vocal timbral techniques—such as whisper, falsetto, and vocal fry scream—uniquely shape the spectral properties of the human voice, presenting a complex challenge for converting between them while preserving the original speaker’s identity. Traditional voice conversion methods, while effective at altering speaker identity or broad timbral qualities, often struggle to transform specialized timbral techniques without compromising speaker-specific traits. Similarly, existing style-transfer models, which are designed to capture broad categories like emotional expressiveness or singing styles, lack the necessary granularity to handle technique-specific variations. To address this, we propose FABYOL, a novel framework for timbral technique conversion built upon FACodec. FABYOL leverages supervised contrastive learning to generate embeddings that encode specific timbral techniques. These embeddings are then used to modulate timbre and prosody, enabling authentic technique conversion while preserving speaker identity. Experimental evaluation, using both tailored objective metrics and a user study, demonstrates that FABYOL achieves promising performance and offers significant improvements in fidelity and flexibility compared to state-of-the-art models. To support this task, we also introduce the EMO dataset, a high-quality, paired corpus developed with a specific focus on vocal fry scream. 
