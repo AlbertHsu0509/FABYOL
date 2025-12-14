@@ -1,15 +1,9 @@
 ---
 layout: default
 title: "Conditional Vocal Timbral Technique Conversion via Embedding-Guided Attribute Modulation"
+description: "Ting-Chao Hsu and Yi-Hsuan Yang"
 ---
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-    <p style="font-size: 1.2em; color: #333; margin-bottom: 5px;">
-        <span style="font-weight: bold;">Ting-Chao Hsu</span> and 
-        <span style="font-weight: bold;">Yi-Hsuan Yang</span>
-    </p>
-</div>
-<link rel="stylesheet" href="/assets/css/style.css">
-<div style="text-align: center; margin: 20px 0;">
+
 <link rel="stylesheet" href="/assets/css/style.css">
 <div style="text-align: center; margin: 20px 0;">
 
