@@ -631,22 +631,11 @@ In this ablation study, we assess the significance of dual attribute modulation 
     </tr>
   </tbody>
 </table>
-<div style="max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f4f4f4; border-radius: 8px;">
-    <h3 style="margin-top: 0;">Citation</h3>
-    <p style="font-family: monospace; font-size: 0.9em; background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="margin-top: 60px; border-top: 1px solid #eee; padding-top: 20px; color: #555;">
+    <h3>Citation</h3>
+    <p>
         Ting-Chao Hsu and Yi-Hsuan Yang, "Conditional vocal timbral technique conversion via embedding-guided dual attribute modulation," in AAAI Workshop on Artificial Emerging AI Technologies for Music (EAIM), 2026.
     </p>
-    
-    <details>
-        <summary style="cursor: pointer; color: #0066cc; margin-top: 10px;">Show BibTeX</summary>
-        <pre style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; overflow-x: auto; font-size: 0.85em;">
-@inproceedings{hsu2026fabyol,
-  title={Conditional vocal timbral technique conversion via embedding-guided dual attribute modulation},
-  author={Hsu, Ting-Chao and Yang, Yi-Hsuan},
-  booktitle={AAAI Workshop on Artificial Emerging AI Technologies for Music (EAIM)},
-  year={2026}
-}</pre>
-    </details>
 </div>
 <script>
   let currentAudio = null;
