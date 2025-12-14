@@ -5,9 +5,6 @@ title: "Conditional Vocal Timbral Technique Conversion via Embedding-Guided Attr
 
 <link rel="stylesheet" href="/assets/css/style.css">
 <div style="text-align: center; margin: 20px 0;">
-    <a href="LINK_TO_YOUR_PDF" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white" alt="Paper">
-    </a>
 
     <a href="https://github.com/AlbertHsu0509/FABYOL" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github&logoColor=white" alt="Code">
