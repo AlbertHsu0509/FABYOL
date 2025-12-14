@@ -632,7 +632,6 @@ In this ablation study, we assess the significance of dual attribute modulation 
   </tbody>
 </table>
 <div style="margin-top: 60px; border-top: 1px solid #eee; padding-top: 20px; color: #555;">
-    <h3>Citation</h3>
     <p>
         Ting-Chao Hsu and Yi-Hsuan Yang, "Conditional vocal timbral technique conversion via embedding-guided dual attribute modulation," in AAAI Workshop on Artificial Emerging AI Technologies for Music (EAIM), 2026.
     </p>
