@@ -7,9 +7,6 @@ title: "Conditional Vocal Timbral Technique Conversion via Embedding-Guided Attr
         <span style="font-weight: bold;">Ting-Chao Hsu</span> and 
         <span style="font-weight: bold;">Yi-Hsuan Yang</span>
     </p>
-    <p style="font-size: 1.0em; color: #666; font-style: italic;">
-        AAAI Workshop on Artificial Emerging AI Technologies for Music (EAIM), 2026
-    </p>
 </div>
 <link rel="stylesheet" href="/assets/css/style.css">
 <div style="text-align: center; margin: 20px 0;">
