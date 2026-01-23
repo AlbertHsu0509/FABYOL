@@ -11,8 +11,8 @@ description: "Ting-Chao Hsu and Yi-Hsuan Yang"
         <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github&logoColor=white" alt="Code">
     </a>
 
-    <a href="PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Dataset-EMO-4285F4?logo=google-drive&logoColor=white" alt="Dataset">
+    <a href="https://zenodo.org/records/18356449" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Dataset-EMO-024dad?logo=zenodo&logoColor=white" alt="Dataset">
     </a>
 </div>
 <h1>Abstract</h1>
